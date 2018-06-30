@@ -1,3 +1,0 @@
-parallax pic1 => https://www.w3schools.com/w3images/parallax1.jpg
-parallax pic2 => https://www.w3schools.com/w3images/parallax2.jpg
-parallax pic3 => https://www.w3schools.com/w3images/parallax3.jpg

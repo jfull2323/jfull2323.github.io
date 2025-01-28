@@ -841,7 +841,7 @@ Resume Timeline
 }
 
 .timeline .timeline-content:hover .bullet{
-	color:#ffffff;
+	color:#000;
 } 
 
 @media(min-width:992px) {

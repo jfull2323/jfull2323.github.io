@@ -38,7 +38,7 @@
 	.navbar-custom .navbar-brand,
 	.navbar-custom .navbar-nav > li > a,
 	.navbar-custom .navbar-nav .dropdown-menu > li > a {
-		padding:8px 15px;
+		padding:4px 12px;
 	}
 
 	.navbar-custom .dropdown-menu{
@@ -47,7 +47,6 @@
 	
 	.navbar-brand img {
 		width:50px;
-		margin-top:-10px;
 	}
 
 	/*about me section*/
@@ -197,7 +196,7 @@
 	.navbar-custom .navbar-brand,
 	.navbar-custom .navbar-nav > li > a,
 	.navbar-custom .navbar-nav .dropdown-menu > li > a {
-		padding:10px 15px;
+		padding:4px 12px;
 	}
 
 	.navbar-custom .dropdown-menu{
@@ -322,13 +321,9 @@
 
 /* Small devices (tablets, 768px and up) */
 @media (min-width : 768px) and (max-width : 991px) {
-	.navbar-custom .navbar-brand{
-		padding: 6px 15px 8px 15px;
-	}
-
 	.navbar-custom .navbar-nav > li > a, 
 	.navbar-custom .navbar-nav .dropdown-menu > li > a{
-		font-size: 12px;
+		/*font-size: 12px;*/
 		padding: 15px;
 	}
 
@@ -407,7 +402,7 @@
 /* Medium devices (desktops, 992px and up) */
 @media (min-width : 992px) and (max-width : 1199px) {
 	.navbar-custom .navbar-brand{
-		padding: 12px 15px;
+		padding: 4px 12px;
 	}
 	.portfolio-item{
 		min-height: 150px;
@@ -425,7 +420,7 @@
 /* Large devices (large desktops, 1200px and up) */
 @media (min-width : 1200px) and (max-width : 1279px) {
 	.navbar-custom .navbar-brand{
-		padding: 12px 15px;
+		padding: 4px 12px;
 	}
 }
 

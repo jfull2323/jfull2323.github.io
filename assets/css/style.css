@@ -327,7 +327,7 @@ SOCIAL ICON
     width:100%;
     z-index:998;
     padding-bottom:1px;
-    background:#fff;
+    background:#191E31;
 }
 
 .header::after {
@@ -350,7 +350,7 @@ SOCIAL ICON
 
 
 .navbar-custom,
-.navbar-custom .dropdown-menu {background:#fff; padding:0;}
+.navbar-custom .dropdown-menu {padding:0;}
 
 .navbar-custom ul li a span{margin-left:5px;}
 
@@ -379,7 +379,7 @@ SOCIAL ICON
 }
 
 .navbar-custom .navbar-nav > li > a{
-    color:#282828;
+    color:#fff;
     font-size:14px;
     font-weight:700;
     padding-top:20px;
@@ -416,7 +416,6 @@ SOCIAL ICON
 .navbar-brand img {width:50px;}
 
 .navbar-brand {
-    background-color:#464958;
     height:100%;
     padding:4px 12px;
 }
@@ -1126,6 +1125,8 @@ Icon for all respective meta
 	color:#fff;
 	font-size:14px;
 	line-height:28px;
+    border:2px solid #191E31;
+    border-radius:3px;
 }
 
 .scroll-up a:hover, .scroll-up a:active {background-color:rgba(235, 235, 235, .8); color:#222;}
